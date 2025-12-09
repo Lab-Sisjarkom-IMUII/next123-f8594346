@@ -13,7 +13,7 @@ export default function Home() {
             </div>
             <h1 className="kasir-title">
               Kelola Transaksi dengan
-              <span className="title-highlight"> Mudah & Cepat</span>
+              <span className="title-highlight"> Mudah & Cepat ya</span>
             </h1>
             <p className="kasir-subtitle">
               Sistem kasir terintegrasi untuk meningkatkan efisiensi bisnis Anda. 
