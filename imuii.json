@@ -1,0 +1,11 @@
+{
+  "name": "next123",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "next123",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_763188b7ccaed3c97cf69db94103fcfc9512e69fa0572fcb09696148c702df48",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/next123-f8594346.git"
+}
